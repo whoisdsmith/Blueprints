@@ -1,4 +1,8 @@
-# Blueprints For A Better Future
+---
+banner: "![[BPBanner.PNG]]"
+banner_y: 0.5
+---
+# Blueprints For A Better Future 
 
 ---
 
