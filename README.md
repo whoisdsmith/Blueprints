@@ -98,7 +98,7 @@ With these metaphorical blueprints, we can work together to build a better futur
 
 ---
 
-## Daily Wisdom With Everett Smith
+## Daily Wisdom With Everett
 
 ![](wisdombanner.jpg)
 
