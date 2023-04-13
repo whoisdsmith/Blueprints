@@ -1,6 +1,3 @@
----
-banner: "![[BPBanner.PNG]]"
----
 
 # Blueprints For A Better Future
 
