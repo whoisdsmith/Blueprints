@@ -1,4 +1,5 @@
-![](BPBanner.PNG)
+![Banner](BPBanner.PNG)
+
 # Blueprints For A Better Future 
 
 ---
