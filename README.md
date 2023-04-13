@@ -258,20 +258,6 @@ Changes"**
 
 ![](URWhatUThinkAbout.jpg)
 
-## Decisions
-
----
-
-	I really want to write to inspire, I want to be known for something positive, someone who was able to help others who are going through some bad shit. 
-	
-	For the last few years, I've been consumed with so much negativity and during that time I was unable to see the good things and the effects I had on people around me, most of all my children. 
-	
-	I wish I had gotten myself out of that situation years ago, but I was so convinced I could change the situation's outcome. 
-	
-	Towards the end of that relationship I was changing, I was becoming a better man by acknowledging my flaws and my mistakes, but sometimes it's just too late to save something that was always doomed from the start. 
-	
-	Life can be so hard sometimes, especially when we are the ones who choose to make decisions that can come back and bite us in the ass.
-
 ---
 
 ## Dreamscapes
@@ -515,18 +501,6 @@ By merging technology, creativity, and collaboration, Dreamscapes offers an exci
 ---
 
 >There was a period of time, somewhere between early 2017 to early 2020 where shit got really dark. I didn't things would ever get better, Most days I didn't want to get out and I really wished I would fade out of existence. It was just after my son's 15th Birthday last year when I told myself and my mom that I'm going to get a job and out of my room and I'm going to make my life better. What I can say now is, somewhere in that darkness I found a light and that light grows brighter every day.
-
----
-
-## More Questions
-
----
-
->What is love without hate?  
-
->Joy without pain?  
-
->What is light without darkness?
 
 ---
 
