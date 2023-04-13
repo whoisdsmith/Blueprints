@@ -1,7 +1,4 @@
----
-banner: "![[BPBanner.PNG]]"
-banner_y: 0.5
----
+![](BPBanner.PNG)
 # Blueprints For A Better Future 
 
 ---
